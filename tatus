@@ -1,0 +1,952 @@
+[33mcommit 857c97086e2f599532d9e4b0de30ddada0415673[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Kritebh Lagan Bibhakar <54534607+kritebh@users.noreply.github.com>
+Date:   Sat May 20 15:10:25 2023 +0530
+
+    Update README.md
+
+[33mcommit 549f63a36953f3d02a0966d81eec5311d632a56c[m
+Merge: e9b3de1 77ab5d3
+Author: Kumar Harsh <73992943+cenacrharsh@users.noreply.github.com>
+Date:   Sat Dec 11 11:48:22 2021 +0530
+
+    Merge pull request #15 from rash-123/main
+    
+    updated readme
+
+[33mcommit 77ab5d374c2109c14ba5257e6686a28cf7717ef6[m
+Author: rash-123 <vermarashmi559@gmail.com>
+Date:   Sat Dec 11 11:45:59 2021 +0530
+
+    updated readme
+
+[33mcommit e9b3de154e6369446cbe7656cd758dfd33d87bba[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Sun Sep 12 23:43:42 2021 +0530
+
+    deployed
+
+[33mcommit 3a2d2a601277cb19849a1925c03b4c25acf46246[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Sun Sep 12 19:18:24 2021 +0530
+
+    re otakuhouse
+
+[33mcommit b7b3cec75b63cde787747aae9b1b86cd4cc053bc[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Sun Sep 12 19:01:33 2021 +0530
+
+    replaced $
+
+[33mcommit 0695aa857d74de1fb09cdda0ef6e401e3419aad6[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Sun Sep 12 15:14:35 2021 +0530
+
+    otakuhouse
+
+[33mcommit 5678b32f125350ec476a7249bd1db043d28aeb5f[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Sun Sep 12 15:11:01 2021 +0530
+
+    otakuhouse
+
+[33mcommit 6d6a8247e6f39631c9c01a3a10c207d62d999a7d[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Sun Sep 12 15:08:45 2021 +0530
+
+    otakuhouse
+
+[33mcommit f20e13313f214d258f4f3e34be41e845c65401b2[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Sun Sep 12 15:05:42 2021 +0530
+
+    otakuhouse
+
+[33mcommit ceb0eb530c095ba2ec4754f833b5e99306493b2b[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Sun Sep 12 14:44:08 2021 +0530
+
+    Added Products
+
+[33mcommit 28aafa59ac9667c5a9dba6438bf9585558cd0d46[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Sun Sep 12 13:58:50 2021 +0530
+
+    changes made
+
+[33mcommit c9fd47aaec02bcd38950bb46f4ba18aabd9f8131[m
+Merge: 5fca388 9cb6199
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Sun Sep 12 13:10:39 2021 +0530
+
+    static bug fixed
+
+[33mcommit 5fca388cea2e9a74bcf49d519182d55e4be3c04f[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Sun Sep 12 13:08:23 2021 +0530
+
+    static file fixed
+
+[33mcommit 9cb6199a87346f446ca769eca9845f6fbb14e9a2[m
+Author: Kumar Harsh <73992943+cenacrharsh@users.noreply.github.com>
+Date:   Sat Sep 11 20:33:20 2021 +0530
+
+    Update README.md
+
+[33mcommit 4954709fd3921b9b05c6ef2b81e10a1aac27946f[m
+Author: Kumar Harsh <73992943+cenacrharsh@users.noreply.github.com>
+Date:   Sat Sep 11 20:31:41 2021 +0530
+
+    Update README.md
+
+[33mcommit dc0ba40049afb8971e94f5195b9eca998147cfb7[m
+Author: Kumar Harsh <73992943+cenacrharsh@users.noreply.github.com>
+Date:   Sat Sep 11 20:30:57 2021 +0530
+
+    Update README.md
+
+[33mcommit bf85086d2c13657bcdbd78428d0b3e6664d2e27f[m
+Author: Kumar Harsh <73992943+cenacrharsh@users.noreply.github.com>
+Date:   Sat Sep 11 20:29:27 2021 +0530
+
+    Update README.md
+
+[33mcommit e6ab6c67a8e049a723943c0773b27e32e719c321[m
+Author: Kumar Harsh <73992943+cenacrharsh@users.noreply.github.com>
+Date:   Sat Sep 11 20:28:49 2021 +0530
+
+    Update README.md
+
+[33mcommit e89c29b6fe5a1e9b3223e336006845dae18e9c4e[m
+Author: Kumar Harsh <73992943+cenacrharsh@users.noreply.github.com>
+Date:   Sat Sep 11 20:27:21 2021 +0530
+
+    Update README.md
+
+[33mcommit 343c21282d7d299bec2c17d346b08ca3f259e993[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Sat Sep 11 20:22:31 2021 +0530
+
+    screenshot added
+
+[33mcommit 5d7af44e8fa59eafbb962bc3d86af7052f8a7fb2[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Sat Sep 11 20:01:09 2021 +0530
+
+    pages done
+
+[33mcommit b4f8bb82be65d17167b798ddcf2c2dbe69c2ceea[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Sat Sep 11 17:53:05 2021 +0530
+
+    deployed on otakuhouse
+
+[33mcommit 00df9d8ebcafdd781f82cb860cae37e4e45c13e0[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Sat Sep 11 17:49:19 2021 +0530
+
+    deployed on otakuhouse
+
+[33mcommit 86a0ebeb89c4f0f964828336d428a9dad9a34e2d[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Sat Sep 11 17:19:56 2021 +0530
+
+    procfile fixed
+
+[33mcommit cc537aea6b412be92a5ebc546450102ac792ee73[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Sat Sep 11 17:15:47 2021 +0530
+
+    otakuhouse created
+
+[33mcommit 2af91c01befd43e4f16a622e48e64e76c9bd7c98[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Sat Sep 11 16:04:56 2021 +0530
+
+    deployed on heroku
+
+[33mcommit 8983d273181045c818a517472abad2d71b7b2814[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Sat Sep 11 16:01:24 2021 +0530
+
+    deployed on heroku
+
+[33mcommit d50c14cc6553d181bc12ac38395c7a0d73ad6df2[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Sat Sep 11 15:45:52 2021 +0530
+
+    ready to deploy
+
+[33mcommit aa522e8abc6af66b2eee0b7eb40571f2dc22cae9[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Sat Sep 11 13:05:42 2021 +0530
+
+    logo added
+
+[33mcommit 7d97cc3280934e6aeb94f8dd6a1c0e48a8765f01[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Sat Sep 11 12:42:46 2021 +0530
+
+    favicon and logo
+
+[33mcommit e9aa60ddc0a4aebc48d935f8222d081daae37ce0[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Sat Sep 11 12:05:29 2021 +0530
+
+    right alignment fixed
+
+[33mcommit 43ff0b7d4f2187f5f53bb113edc1e70e0dbbded8[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Fri Sep 10 22:59:27 2021 +0530
+
+    to deploy
+
+[33mcommit bf7f591c8bfc0e9602edf6cf309f5456d628f997[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Fri Sep 10 19:06:22 2021 +0530
+
+    80. Adding HashRouter
+
+[33mcommit e2e60a1ee349c028a2fbddaefb47014648314c1b[m
+Merge: c902df6 a05643b
+Author: Kumar Harsh <73992943+cenacrharsh@users.noreply.github.com>
+Date:   Fri Sep 10 18:52:39 2021 +0530
+
+    Merge pull request #14 from kritebh/product
+    
+    Product Reviews, Search & More.
+
+[33mcommit a05643b84050f1f20a740873ba40d547e7995c4a[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Fri Sep 10 18:50:30 2021 +0530
+
+    78. Product Carousel
+
+[33mcommit da017dcbd661eb776248cf101d0b253d2521f1df[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Fri Sep 10 17:55:26 2021 +0530
+
+    77. Pagination
+
+[33mcommit 9303d4613cac766aa67c4af203873ac8b12ab8cb[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Fri Sep 10 14:37:05 2021 +0530
+
+    76. Product Search
+
+[33mcommit 3c6e6f649639dc96aead7cba01540f4454be2886[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Fri Sep 10 14:07:25 2021 +0530
+
+    75. Frontend Product Reviews
+
+[33mcommit aa37431be9a534db561530f69acb6043779aea2e[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Fri Sep 10 00:54:34 2021 +0530
+
+    backend changes
+
+[33mcommit c902df68ebaeab044d576f578e3bb2e1ac911315[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Thu Sep 9 14:32:17 2021 +0530
+
+    section 12 backend complete
+
+[33mcommit 8cb39316cc89999add39c080035b12512d187393[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Thu Sep 9 14:31:38 2021 +0530
+
+    section 12 backend complete
+
+[33mcommit 821f8d041a25eefd16595f77830b065ae662c7f4[m
+Merge: 2533293 857d2cb
+Author: Kumar Harsh <73992943+cenacrharsh@users.noreply.github.com>
+Date:   Thu Sep 9 00:26:25 2021 +0530
+
+    Merge pull request #13 from kritebh/admin2
+    
+    Admin2
+
+[33mcommit 857d2cb47b7805279007d350a5861bc2d3735d67[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Thu Sep 9 00:15:46 2021 +0530
+
+    73. Mark Order As Delivered
+
+[33mcommit 2d6ed5ffe0e9acf97f3065208ce5ccd1a08d528b[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Wed Sep 8 23:14:50 2021 +0530
+
+    72. Admin Order List
+
+[33mcommit 39f1ab85f6659a4fd5f4b8561421cb2837a2f971[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Wed Sep 8 20:55:50 2021 +0530
+
+    71. Product Image Upload
+
+[33mcommit ea061be25b922c12dca822310c8c22d409e14d73[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Wed Sep 8 20:34:06 2021 +0530
+
+    70. Edit Product Functionality
+
+[33mcommit f4a31c00c468b3c116c4a15909212f5b5d690383[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Wed Sep 8 19:31:31 2021 +0530
+
+    69. Product Edit Screen
+
+[33mcommit b776fbfe0a8d6ec255f06f229d3005949b6f2f15[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Wed Sep 8 18:57:01 2021 +0530
+
+    68. Admin Create Product
+
+[33mcommit aa10f3e0241d6f31fb53ae9b71dc4b4f10af50c9[m
+Merge: 1baa4a9 2533293
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Tue Sep 7 17:01:20 2021 +0530
+
+    backend changes
+
+[33mcommit 2533293eea6a75bffa405886b51392e1c4d71c59[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Tue Sep 7 15:34:19 2021 +0530
+
+    70,71,72,73 backend
+
+[33mcommit d7868a93bc585bbe1ef4cb2140f8a864ae1c565a[m
+Merge: d6bc49a b35d26f
+Author: Kumar Harsh <73992943+cenacrharsh@users.noreply.github.com>
+Date:   Tue Sep 7 14:02:03 2021 +0530
+
+    Merge pull request #12 from kritebh/admin2
+    
+    Admin2
+
+[33mcommit b35d26f04c65b96526e42d754599b957fb4cf240[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Mon Sep 6 23:55:41 2021 +0530
+
+    66. Delete Products
+
+[33mcommit bd87437d9b8bf9b9b363b572c6462c711d640d2d[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Mon Sep 6 23:55:00 2021 +0530
+
+    65. Admin Product List
+
+[33mcommit 1baa4a98e615a99499e1461ce932916f60a6bbba[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Mon Sep 6 22:46:26 2021 +0530
+
+    backend changes
+
+[33mcommit d6bc49a0db0b42cf2ebd41f458d3c6518895b0b0[m
+Merge: 86db6a6 1a070f1
+Author: Kumar Harsh <73992943+cenacrharsh@users.noreply.github.com>
+Date:   Mon Sep 6 13:01:24 2021 +0530
+
+    Merge pull request #11 from kritebh/product_delete
+    
+    Product delete
+
+[33mcommit 1a070f1c06decc9d1c6a146c143e22129a28b640[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Sun Sep 5 22:12:04 2021 +0530
+
+    product delete,create and update completed
+
+[33mcommit 59b95ae7f0414f50a0ad16673e23b602ea8a132e[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Sun Sep 5 21:23:18 2021 +0530
+
+    product delete endpoint created
+
+[33mcommit 86db6a6ebff0350be59a87d6a3ab184e75e3e434[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Fri Sep 3 23:11:36 2021 +0530
+
+    64. Update User Functionality
+
+[33mcommit bcd16b275874c8bd72633162bfb4f6169191f537[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Fri Sep 3 21:41:21 2021 +0530
+
+    63. User Edit Screen & Get User Details
+
+[33mcommit 34a514773f60f7809feeff09826e115071145af6[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Fri Sep 3 20:55:21 2021 +0530
+
+    backend changes
+
+[33mcommit 9f8702206653d36410acec02d714796491191522[m
+Merge: afb71ec a79ddcd
+Author: Kumar Harsh <73992943+cenacrharsh@users.noreply.github.com>
+Date:   Fri Sep 3 20:50:19 2021 +0530
+
+    Merge pull request #10 from kritebh/admin1
+    
+    #62
+
+[33mcommit a79ddcd8f369b27907c11847556abcaee7257643[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Fri Sep 3 18:22:12 2021 +0530
+
+    #62
+
+[33mcommit afb71ec03134241324ebddb0e10969c0a4b35de7[m
+Merge: dfd813f bc58b34
+Author: Kumar Harsh <73992943+cenacrharsh@users.noreply.github.com>
+Date:   Fri Sep 3 11:39:19 2021 +0530
+
+    Merge pull request #9 from kritebh/admin1
+    
+    Admin Screen
+
+[33mcommit bc58b34e1607f333109b42db7d7d01dda346a66f[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Fri Sep 3 11:35:57 2021 +0530
+
+    fixed bug
+
+[33mcommit 2fcdb040491e7e74476abe838a0e41a8df42009f[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Fri Sep 3 11:32:16 2021 +0530
+
+    61. Admin User Delete
+
+[33mcommit 5e31cbc0d0a52d0e5a5ed85a19f5d11cbe11f613[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Fri Sep 3 11:04:18 2021 +0530
+
+    removing bugs
+
+[33mcommit 9147c1bcc35078d82c731f0e8a25ab828396dbbd[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Fri Sep 3 11:03:33 2021 +0530
+
+    60. User List Reducer, Action & Screen
+
+[33mcommit 8cb3d743a5dcfb05fffbfbfc81766aaf1a8e86e9[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Thu Sep 2 21:01:20 2021 +0530
+
+    backend changes
+
+[33mcommit dfd813fedd055420dd47c9628172f1f208670f12[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Sat Aug 28 18:00:33 2021 +0530
+
+    order bug fixed
+
+[33mcommit 5fb654bc775909b87a86a77ae066723540e65336[m
+Merge: a1f3974 87956f7
+Author: Kumar Harsh <73992943+cenacrharsh@users.noreply.github.com>
+Date:   Sat Aug 28 14:22:29 2021 +0530
+
+    Merge pull request #8 from kritebh/payment
+    
+    Order Details
+
+[33mcommit 87956f73917e51084b48af54eef5db96227a2102[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Sat Aug 28 14:20:27 2021 +0530
+
+    59. Orders In Profile Page
+
+[33mcommit 66e4bc4924e3f2251043271151921a21af613a04[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Sat Aug 28 13:06:03 2021 +0530
+
+    backend changes
+
+[33mcommit a1f3974668b2fbc58c4481759809afcd51ef7a95[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Fri Aug 27 14:03:12 2021 +0530
+
+    #59
+
+[33mcommit 5b49f57e827147b549f9949355d5ae7f96e51762[m
+Merge: 44f6129 01e336a
+Author: Kumar Harsh <73992943+cenacrharsh@users.noreply.github.com>
+Date:   Thu Aug 26 12:59:56 2021 +0530
+
+    Merge pull request #7 from kritebh/orderscreen
+    
+    Orderscreen
+
+[33mcommit 01e336aa80e6112b215cd6504f6c88ff4acad100[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Thu Aug 26 12:55:10 2021 +0530
+
+    58. PayPal Payments
+
+[33mcommit 5c14fe9d1fa0568da351aaa841fb07a0e4ea3dda[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Thu Aug 26 10:34:21 2021 +0530
+
+    57. Order Pay Reducer & Action
+
+[33mcommit 2d7a20bd97f2ff79d4476231c1ab4fe914ef833f[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Wed Aug 25 22:35:08 2021 +0530
+
+    55. Order Screen
+
+[33mcommit 464f710246691fcafdf6979d64eb2d4324b1f7df[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Wed Aug 25 20:57:01 2021 +0530
+
+    54. Order Details Reducer & Action
+
+[33mcommit d3a0fa15c9cc38c85a95de5781f7b6a27d785180[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Wed Aug 25 20:35:25 2021 +0530
+
+    backend changes
+
+[33mcommit 44f61296f59edf3c330ed11223a7cf825f9b30e8[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Sat Aug 21 10:10:32 2021 +0530
+
+    section 9 all endpoint complete
+
+[33mcommit 2d5f38c5585a624d7965d4df0657052d2bf15834[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Fri Aug 20 17:24:13 2021 +0530
+
+    fixed bug in serializers.py and models.py
+
+[33mcommit 84922512d47df3f26b8a0df7591873f692a977ec[m
+Merge: 78ee0a2 b178357
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Fri Aug 20 16:44:00 2021 +0530
+
+    merged in main
+
+[33mcommit b1783572e4d2551fe64bb9691d93bd40f500ed68[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Fri Aug 20 16:42:53 2021 +0530
+
+    Bug Fixed eslint
+
+[33mcommit 78ee0a256849219e4f277f508d35af5f8697d3df[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Fri Aug 20 15:51:41 2021 +0530
+
+    backend changes
+
+[33mcommit 6f2064287f3b66fac206b510af1860a40d86c3e3[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Fri Aug 20 15:50:41 2021 +0530
+
+    52. Create Order
+
+[33mcommit 4725718f7f5f786921554684573a22ce3515350b[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Fri Aug 20 14:08:51 2021 +0530
+
+    backend changes
+
+[33mcommit f221980a07a9394f91e3612066caff020883152c[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Thu Aug 19 21:15:55 2021 +0530
+
+    #52 done
+
+[33mcommit d0cf2b6dda16e0b0094713c88ce9cfd1ea77c497[m
+Merge: 2262bf1 6849774
+Author: Kumar Harsh <73992943+cenacrharsh@users.noreply.github.com>
+Date:   Thu Aug 19 13:48:58 2021 +0530
+
+    Merge pull request #5 from kritebh/checkout1
+    
+    Checkout1 Part
+
+[33mcommit 6849774ac790ce6d7c8126306be49726a7a4d3dd[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Thu Aug 19 13:46:28 2021 +0530
+
+    fixed warning
+
+[33mcommit 009dfe2f5a77999611421cdfb4615cf42f17f6ee[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Thu Aug 19 13:38:39 2021 +0530
+
+    50. Place Order Screen
+
+[33mcommit d82a0473580dd2ddfba314ab2e295f37da2e71ce[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Thu Aug 19 12:22:43 2021 +0530
+
+    49. Payment Screen & Save Payment Method
+
+[33mcommit b454aed2ed6c05b428054507a922ce872d16af81[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Thu Aug 19 10:59:37 2021 +0530
+
+    48. Checkout Steps Component
+
+[33mcommit c47c8bd7c6aaedd7e1f02054cc062e1b79879a09[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Thu Aug 19 10:44:52 2021 +0530
+
+    47. Shipping Screen & Save Address
+
+[33mcommit 1563bc6ebcde0e5e0e36d970e3bf85690f37a44b[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Thu Aug 19 09:36:15 2021 +0530
+
+    backend files changes
+
+[33mcommit 2262bf113f4582dc56b1cb354b0931c507df3683[m
+Merge: 33ee144 5ec8a8d
+Author: Kumar Harsh <73992943+cenacrharsh@users.noreply.github.com>
+Date:   Wed Aug 18 17:37:27 2021 +0530
+
+    Merge pull request #4 from kritebh/userauth
+    
+    User Authorization
+
+[33mcommit 5ec8a8da7fc3d808b7d31c91303f51c5b36bb97c[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Wed Aug 18 17:34:54 2021 +0530
+
+    bug fixes
+
+[33mcommit e169472b4229afc1236740642b816b260bc8626b[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Wed Aug 18 17:27:15 2021 +0530
+
+    45. Update User Profile
+
+[33mcommit 5fdcf26ab0360c38e017ddff122168eccc3df568[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Wed Aug 18 15:40:50 2021 +0530
+
+    44. Profile Screen & Get User Details
+
+[33mcommit b4a15cd50b99660cabe2adc0de0e05eb02a2bb3d[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Wed Aug 18 14:29:52 2021 +0530
+
+    42. User Register Reducer, Action &
+    Screen
+
+[33mcommit b87d25f74a03248ec36d4c67414b68950ef4a183[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Tue Aug 17 17:39:21 2021 +0530
+
+    41. User In Navbar & Logout
+
+[33mcommit c4691f1dc713f5689d2082d1a897ac079a5284ec[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Tue Aug 17 16:42:01 2021 +0530
+
+    40. User Login Screen & Functionality
+
+[33mcommit e2aa0f8bb3909032bed2a499a72fa4497e54cac4[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Tue Aug 17 14:38:42 2021 +0530
+
+    39. User Login Reducer & Action
+
+[33mcommit 33ee14447a91ce73826be2cc95228043c2bd69df[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Tue Aug 17 12:39:19 2021 +0530
+
+    user profile update section 7 #43
+
+[33mcommit 6aa4c768d6bf283dbfac5f68fee2ada285615f45[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Mon Aug 16 17:20:47 2021 +0530
+
+    authentication done
+
+[33mcommit a5a3a4942af0cee71fa68da3288e43894462a7eb[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Mon Aug 16 14:42:04 2021 +0530
+
+    jwt setup done and merged
+
+[33mcommit fabd3d8da5b63d221614cde6a9665dd0f05f5063[m
+Merge: 8a5d68c 4d7e518
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Mon Aug 16 14:33:02 2021 +0530
+
+    Merge branch 'user_authentication'
+
+[33mcommit 8a5d68c05a2dd429aa18988bd6a0612d980cbfcf[m
+Merge: ce198e8 c93f55c
+Author: Kumar Harsh <73992943+cenacrharsh@users.noreply.github.com>
+Date:   Mon Aug 16 13:41:25 2021 +0530
+
+    Merge pull request #3 from kritebh/shoppingcart
+    
+    Shopping Cart
+
+[33mcommit c93f55c25abdf7dd48a1135313fde709fca64d26[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Mon Aug 16 13:37:07 2021 +0530
+
+    29. Remove Items From Cart
+
+[33mcommit c728e5337832c5622b5527b7936952a28cb75882[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Mon Aug 16 13:22:58 2021 +0530
+
+    28. Cart Screen handlers
+
+[33mcommit bed2ecdea79bec2a37fa4fa3c16b13b94ae5355e[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Mon Aug 16 13:04:35 2021 +0530
+
+    28. Cart Screen
+
+[33mcommit e29b98c5f9e60a082bcd2f52b0e0fa10043b60b5[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Mon Aug 16 11:52:29 2021 +0530
+
+    27. Add To Cart Functionality
+
+[33mcommit 74dd3cedc63f77e1a782c467a15ddf0b9ffc86a2[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Mon Aug 16 11:32:42 2021 +0530
+
+    26. Cart Reducer & Action
+
+[33mcommit 3a413bd5a7148eeb235278bc0ecb26d4b0177726[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Mon Aug 16 10:57:10 2021 +0530
+
+    25. Qty Select & Add To Cart
+
+[33mcommit 4d7e518da1cb3046990b6f779eeb8faf58878467[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Sun Aug 15 13:14:54 2021 +0530
+
+    django jwt setup done
+
+[33mcommit ce198e832400c43f82d6834817babe46e1da981b[m
+Merge: 21608d3 1e56595
+Author: Kumar Harsh <73992943+cenacrharsh@users.noreply.github.com>
+Date:   Sat Aug 14 12:30:44 2021 +0530
+
+    Merge pull request #2 from kritebh/redux
+    
+    Redux
+
+[33mcommit 1e565950e60333a85543999dead6f4f3a35de9e8[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Sat Aug 14 12:26:35 2021 +0530
+
+    24. Product Details Reducer & Action
+
+[33mcommit a71cf3c13ca930f5aab4ad926903d65611189f01[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Sat Aug 14 10:52:06 2021 +0530
+
+    23. Message & Loader Component
+
+[33mcommit 56fc2ed174e9a8dc9873f3700b8a1b5f0ed6dfbb[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Sat Aug 14 10:31:17 2021 +0530
+
+    22. Bringing Redux Intro Home Screen
+
+[33mcommit 03973df2c994d62d90b2789a5c09df63fcf43291[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Sat Aug 14 10:15:14 2021 +0530
+
+    21. Product List Reducer & Action
+
+[33mcommit 1bdde0865fc643e2197ed4b69f672a07b6e6c50c[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Fri Aug 13 17:39:08 2021 +0530
+
+    updated pip
+
+[33mcommit 21608d332b20b5ae23ee329542bacc11b1348de7[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Fri Aug 13 16:14:22 2021 +0530
+
+    api setup done
+
+[33mcommit 6b66abc00f1fd2bc8b281188ab28e0fc29be034b[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Fri Aug 13 16:09:17 2021 +0530
+
+    django rest framework setup done
+
+[33mcommit 7e9cb21889f90386ddeb5ce532bb18a236f7d68a[m
+Merge: 43745d1 b3a91a2
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Fri Aug 13 14:55:36 2021 +0530
+
+    merging
+
+[33mcommit b3a91a26503f9358de2a872763a7093863dd7f2b[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Fri Aug 13 14:51:20 2021 +0530
+
+    backend .settings
+
+[33mcommit 43745d14b9126a0bfd3eb4de006330ce4faa5c85[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Fri Aug 13 14:50:36 2021 +0530
+
+    django setup done
+
+[33mcommit bc107569853204b355d29287717dbcfd06d15867[m
+Merge: bee5133 4551a96
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Fri Aug 13 14:48:17 2021 +0530
+
+    axios done merge
+
+[33mcommit bee513312496612526eee20354513c80d8627733[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Fri Aug 13 14:47:37 2021 +0530
+
+    merging
+
+[33mcommit 4551a961c697c0fac32b46906ae7a797d3b2386e[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Fri Aug 13 14:45:21 2021 +0530
+
+    axios done
+
+[33mcommit ac3e83f0da021cde69f03f2e6d72371d7049b22c[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Fri Aug 13 14:44:16 2021 +0530
+
+    axios done
+
+[33mcommit a579bcb4eeae1083f2388de5718e19a72ba977d8[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Fri Aug 13 14:13:03 2021 +0530
+
+    base app done in backend
+
+[33mcommit 643c7fd1a2d6814f4cdf4dc175f01ac1b5bf312c[m
+Merge: 6196354 1c5928d
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Fri Aug 13 12:39:12 2021 +0530
+
+    merged product details page 01
+
+[33mcommit 6196354f8592e8ead7689c78fae0e0542d1df8ae[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Fri Aug 13 12:33:31 2021 +0530
+
+    extra file deleted
+
+[33mcommit 1c5928d8ff02c5eb0099f05b5caa28cb559ec969[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Fri Aug 13 11:11:19 2021 +0530
+
+    Fixed Warnings
+
+[33mcommit 841b35f62214505a18b58f9d6a918f8b79a92331[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Fri Aug 13 11:03:19 2021 +0530
+
+    10. Product Details Screen
+
+[33mcommit 243bb9faa8e1bf36dc995ae8875ac8dacf2d99df[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Fri Aug 13 10:25:56 2021 +0530
+
+    9. Implementing React Router
+
+[33mcommit 2abd4b2d9178d0d5da5d6cab04adad1ad7815495[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Thu Aug 12 23:22:48 2021 +0530
+
+    8. Rating Component
+
+[33mcommit 0b5438ba8a377d4e0a83760a5044f2d3a0a44378[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Thu Aug 12 22:16:00 2021 +0530
+
+    7. HomeScreen Product Listing
+
+[33mcommit 52ff54cdc49cf3bea938c4eef13639382ad3ef1e[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Thu Aug 12 21:31:48 2021 +0530
+
+    added products data and images
+
+[33mcommit 32fec086986e87609e7477c3eaaf418035b1dba6[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Thu Aug 12 19:53:01 2021 +0530
+
+    updated readme
+
+[33mcommit 58b9dd5cf3043724fcd232fae28453a5c35f2321[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Thu Aug 12 15:33:05 2021 +0530
+
+    lec 6 complete
+
+[33mcommit 44a3310364ec9b3cb552be3ca7f689cbc299a4dd[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Thu Aug 12 15:00:32 2021 +0530
+
+    installed and initialized react bootstrap
+
+[33mcommit 14eac0fccb921a6542453af00240bb42a97726af[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Thu Aug 12 14:27:41 2021 +0530
+
+    Added Resources Folder and Changed Favicon
+
+[33mcommit a69a82b38a70e531968a98a4f88179799b71e945[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Thu Aug 12 14:20:09 2021 +0530
+
+    create react app files cleanup
+
+[33mcommit 4657ec145398bdc57e67decdfff41de7a63bc139[m
+Author: Kumar Harsh <harsh.nishant.superstar@gmail.com>
+Date:   Thu Aug 12 13:16:27 2021 +0530
+
+    initial setup done
+
+[33mcommit bc56286a5a8fcc90753412d1334f178767b70077[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Thu Aug 12 12:22:17 2021 +0530
+
+    README updated
+
+[33mcommit 931542f6cd02f749e2fba8fabbe3caff6070b6bd[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Thu Aug 12 12:20:00 2021 +0530
+
+    README updated
+
+[33mcommit 07ef3fd698aee3e822e75b6cc099268fa66a7412[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Thu Aug 12 12:18:01 2021 +0530
+
+    README updated
+
+[33mcommit a97b077cb3a4656b016ed3e235785953d656b4b9[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Thu Aug 12 00:52:00 2021 +0530
+
+    initial setup done
+
+[33mcommit d5b193783a1b1f8d2ad138b80173218fe2940d4a[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Thu Aug 12 00:45:16 2021 +0530
+
+    README added
+
+[33mcommit e0758aa4b57108ab6d511d9b13be6b74d5b4b8de[m
+Author: Kritebh <kritebhlaganbibhakar@gmail.com>
+Date:   Thu Aug 12 00:41:12 2021 +0530
+
+    initial setup done
